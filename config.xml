@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cssjssupercache</name>
+	<displayName><![CDATA[CSS JS Super Cache]]></displayName>
+	<version><![CDATA[0.6.0]]></version>
+	<description><![CDATA[Combine CSS/JS files and decrease page load time.]]></description>
+	<author><![CDATA[Michael Dekker]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
